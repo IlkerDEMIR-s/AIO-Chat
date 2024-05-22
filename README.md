@@ -18,6 +18,7 @@ Features:
 - Customer Support (Crisp)
 - Tailwind design
 - Tailwind animations and effects
+- Shadcn/ui design
 - Full responsiveness
   
 
