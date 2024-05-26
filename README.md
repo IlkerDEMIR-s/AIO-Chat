@@ -103,8 +103,10 @@ Running commands with npm `npm run [command]`
 ![image generation 2](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/ba709bc2-0bc4-4c61-ba8d-2c4b66c2f159)
 
 ### Video Generation Part
-![video generation 2](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/bf191d46-08eb-4478-aef8-1f97b3707237)
+![video generation 2](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/f31ffd51-deca-4e18-90f1-5e229610ead3)
+![video generation 3](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/be2a8708-f878-45ab-ac8a-adc5882b657d)
 ![video generation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/31990cee-d341-49b2-aa3f-0aebddbecbac)
+![video generation 4](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/d89d6af5-34ba-442b-bdfc-6788ac1adbe0)
 
 ### Music Generation Part
 ![music generation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/38e70d68-cb8b-48d9-9da6-664e4cf47faf)
