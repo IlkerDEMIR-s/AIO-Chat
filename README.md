@@ -13,7 +13,7 @@ Features:
 - Conversation Generation Tool (Open AI)
 - Music Generation Tool (Replicate AI)
 - Code Generation Tool (Open AI)
-- Monthly subscription (Stripe)
+- Monthly subscription (Stripe Payment Gateway)
 - Free tier with API limiting
 - Customer Support (Crisp)
 - Tailwind design
