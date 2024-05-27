@@ -1,7 +1,7 @@
 # <div align="center"><h4>AIO Chat</h4></div>
 
 
-![dashboard](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/07d0ce82-d156-4777-a91b-fcad81bd71cd)
+![dashboard](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/dashboard.png)
 
 Features:
 
@@ -23,10 +23,10 @@ Features:
   
 
 ### Project High-Level Design
-![High-Level Design](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/8236e697-2a6b-4846-8591-946fc5562b44)
+![High-Level Design](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/High-Level%20Design.png)
 
 ### Database Schema Design
-![db](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/10b9da36-2be5-4d18-bf39-c8d4bc7a76a9)
+![db](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/db.png)
 
 
 ### Prerequisites
@@ -96,39 +96,39 @@ Running commands with npm `npm run [command]`
 ## Screenshots from the project
 
 ### Conversation Part
-![conversation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/079e1df0-89ba-4e78-b82b-de33d2e0b759)
+![conversation](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/conversation.png)
 
 ### Image Generation Part
-![image generation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/9a45ab46-bc47-4390-88ff-683ba6e4944b)
-![image generation 2](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/ba709bc2-0bc4-4c61-ba8d-2c4b66c2f159)
+![image generation](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/image%20generation.png)
+![image generation 2](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/image%20generation%202.png)
 
 ### Video Generation Part
-![video generation 2](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/f31ffd51-deca-4e18-90f1-5e229610ead3)
-![video generation 3](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/be2a8708-f878-45ab-ac8a-adc5882b657d)
-![video generation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/31990cee-d341-49b2-aa3f-0aebddbecbac)
-![video generation 4](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/d89d6af5-34ba-442b-bdfc-6788ac1adbe0)
+![video generation 1](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/video%20generation%201.png)
+![video generation 2](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/video%20generation%202.png)
+![video generation 3](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/video%20generation3.png)
+![video generation 4](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/video%20generation%204.png)
 
 ### Music Generation Part
-![music generation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/38e70d68-cb8b-48d9-9da6-664e4cf47faf)
+![music generation](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/music%20generation.png)
 
 ### Code Generation Part
-![code generation](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/18cc5ade-005e-4ec6-a89b-d75d82934b9f)
+![code generation](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/code%20generation.png)
 
 ### Upgrade Plan Tab
-![upgrade plan tab](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/d382f165-0fa5-4834-b8ba-5ef8c9f3a1d8)
+![upgrade plan tab](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/upgrade%20plan%20tab.png)
 
 ### Settings Free Plan Part
-![Settings free](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/ba1c95c3-6562-4e01-a64a-bb9557528ec3)
+![Settings free](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/Settings%20free.png)
 
 ### Settings Pro Plan Part
-![Settings pro](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/f763fdb6-b6fa-4485-a1c9-2aed4eeeae01)
+![Settings pro](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/Settings%20pro.png)
 
 ### Landing Page
-![landing page](https://github.com/IlkerDEMIR-s/smp_our_project/assets/115078996/bb2895bd-8d19-4bd6-a315-1bc75bbb15ab)
+![landing page](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/landing%20page.png)
 
 ### Customer support (Crisp)
-![customer support1](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/4e116dde-b1aa-4c1b-a733-807c7a0948eb)
-![customer support2](https://github.com/IlkerDEMIR-s/AIO-Chat/assets/115078996/5a17f426-b0c4-43e2-bc96-e89ea95edd84)
+![customer support1](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/customer%20support1.png)
+![customer support2](https://github.com/IlkerDEMIR-s/AIO-Chat/blob/main/public/ss/customer%20support2.png)
 
 ## Icon
 
