@@ -5,7 +5,7 @@
 
 Features:
 
-- Clerk Authentication (Email, Google, 9+ Social Logins)
+- Clerk Authentication (Email, Google, Microsoft, Github 21+ Social Logins)
 - Client form validation and handling using react-hook-form
 - Server error handling using react-toast
 - Image Generation Tool (Open AI)
